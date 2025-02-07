@@ -1,0 +1,10 @@
+numpy
+pandas
+xarray
+rioxarray
+matplotlib
+scikit-learn
+xgboost
+hmmlearn
+earthengine-api
+geemap
